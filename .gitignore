@@ -1,0 +1,10 @@
+#ignorar carpetas
+AR19063
+BC21009
+GM21057
+MD22007
+RC22009
+parcial
+#ignorar error 404 personalizado
+.htaccess
+404.html
